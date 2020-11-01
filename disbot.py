@@ -1,3 +1,4 @@
+pip install -U discord.py[voice] pynacl youtube-dl
 import asyncio
 import functools
 import itertools
